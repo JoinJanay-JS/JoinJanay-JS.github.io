@@ -1,11 +1,11 @@
 # Site settings
-author: Janay Bailey
-title: 
+author: Janay 
+title: JoinJanay
 header-img: img/home-bg.png
 email: tjanay87@gmail.com
-copyright_name: Janay Bailey
+copyright_name: Janay 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Curiosity led you here... go ahead and join me on my journey 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: JoinJanay_JS
 github_username:  JoinJanay-JS
